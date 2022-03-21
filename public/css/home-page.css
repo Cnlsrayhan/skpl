@@ -1,0 +1,91 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Homepage{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    margin-top: 140px;
+    font-size: 48px;
+    color: rgb(255, 255, 255);
+    
+    
+}
+.pamungkas{
+    margin-left: 520px;
+    margin-top: -330px;
+}
+
+.contenttext{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 255, 255);
+    margin-bottom: 500px;
+    font-size: 22px;
+    font-weight: 300;
+    opacity: 80%;
+}
+.w3-left {
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    color: white;
+    width: 170px;
+    height: 65px;
+    text-align: center;
+    font-weight: 600;
+    
+    font-size: 16px;
+   
+  
+    border-radius: 10px;
+    font-size: 22px;
+    
+  }
+  .w3-margin-right {background-color: #F7BA07;} /* Green */  
+
+  .buy{
+      margin-top: 70px;
+  }
+
+  .date{
+    font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-style: normal;
+      font-weight: 500;
+      margin-left: 5px;
+      color: rgb(255, 255, 255);
+  }
+
+  .location{
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    margin-left: 5px;
+    font-weight: 500;
+  }
+
+  .texteffect{
+      margin-top: 80px;
+  }
+
+  .bg-light{
+      margin-top: 100px;
+  }
+
+  .imgfoot{
+      width: 120px;
+      height: 70px;
+      margin-right: 1200px;
+  }
+  .footertext{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+     
+  }
+
+  .logoimage{
+      margin-left: 1300px;
+      margin-top: -40px;
+  }
